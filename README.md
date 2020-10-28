@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 :gem: I’m currently learning ...
 
 :heavy_check_mark: [350-901(DEVCOR)](https://developer.cisco.com/certification/exam-topic-core/)
+
 :round_pushpin: [300-635(DCAUTO)](https://developer.cisco.com/certification/exam-topic-dc-auto/)
