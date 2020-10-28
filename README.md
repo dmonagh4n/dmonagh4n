@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **dmonagh4n/dmonagh4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:gem: I’m currently working on ...
+
+- [ ] [NetOps Toolkit](https://github.com/dmonagh4n/netops_toolkit) - Tools to help automate and standardise our deployments and operations
+
+:gem: I’m currently learning ...
+
+- [X] [350-901(DEVCOR)](https://developer.cisco.com/certification/exam-topic-core/)
+- [ ] [300-635(DCAUTO)](https://developer.cisco.com/certification/exam-topic-dc-auto/)
+- [ ] [OO](https://docs.python.org/3/tutorial/classes.html)
+- [ ] [ACI](https://www.cisco.com/c/en_uk/solutions/data-center-virtualization/application-centric-infrastructure/index.html)
+- [ ] [K8S](https://kubernetes.io/)
