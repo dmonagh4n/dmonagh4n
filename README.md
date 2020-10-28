@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 
 :gem: I’m currently working on ...
 
-:round_pushpin: - [ ] [NetOps Toolkit](https://github.com/dmonagh4n/netops_toolkit) - Tools to help automate and standardise our deployments and operations
+:round_pushpin: [NetOps Toolkit](https://github.com/dmonagh4n/netops_toolkit) - Tools to help automate and standardise our deployments and operations
 
 :gem: I’m currently learning ...
 
-:heavy_check_mark: - [X] [350-901(DEVCOR)](https://developer.cisco.com/certification/exam-topic-core/)
-:round_pushpin: - [ ] [300-635(DCAUTO)](https://developer.cisco.com/certification/exam-topic-dc-auto/)
-:round_pushpin: - [ ] [OO](https://docs.python.org/3/tutorial/classes.html)
-:round_pushpin: - [ ] [ACI](https://www.cisco.com/c/en_uk/solutions/data-center-virtualization/application-centric-infrastructure/index.html)
-:round_pushpin: - [ ] [K8S](https://kubernetes.io/)
+:heavy_check_mark: [350-901(DEVCOR)](https://developer.cisco.com/certification/exam-topic-core/)
+:round_pushpin: [300-635(DCAUTO)](https://developer.cisco.com/certification/exam-topic-dc-auto/)
