@@ -22,7 +22,7 @@ title: David's Technical Journal
 email: david.monaghan87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm David, a Network Engineer with a focus on automation and programmability.
-baseurl: "dmonagh4n" # the subpath of your site, e.g. /blog
+baseurl: "/dmonagh4n" # the subpath of your site, e.g. /blog
 url: "https://www.dmonagh4n.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 85Monaghan
 github_username:  dmonagh4n
