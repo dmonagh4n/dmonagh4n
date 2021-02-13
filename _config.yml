@@ -28,7 +28,7 @@ twitter_username: 85Monaghan
 github_username:  dmonagh4n
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
