@@ -48,8 +48,10 @@ While working with the programmability and automation tools within ACI, I consta
 
 ### API Components
 
+An API call can either be performed directly on a managed object or a class of objects.
 
-#### First Method : get_token()
+#### First Method - get_token()
+
 {% highlight python %}
 import requests
 import json
