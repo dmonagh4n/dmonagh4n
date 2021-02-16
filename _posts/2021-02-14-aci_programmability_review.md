@@ -44,13 +44,44 @@ Tenant
     └── Subject
 ```
 
-While working with the programmability and automation tools within ACI, I constantly refer back to documentation to ensure I am working with the correct components as these map directly to different calls made to the APIC. 
+While working with the programmability and automation tools within ACI, I constantly refer back to documentation to ensure I am working with the correct components as these map directly to different calls made to the APIC.  
 
 ### API Components
 
-{% highlight python %}
-def get_token():    
 
+#### First Method : get_token()
+{% highlight python %}
+import requests
+import json
+
+def get_token():
+''' 
+Using basic auth, collect a token to be used for subsequent API calls. This method Uses POST method against the target APIC and returns the token resulting from the request.
+'''
+    try:
+        url = "https://apic.example.com/api/aaaLogin.json"
+
+        payload = {
+        "aaaUser": {
+            "attributes": {
+                "name":"admin",
+                "pwd":"correcthorsebatterystaple"
+            }
+        }
+    }
+
+        headers = {
+            "Content-Type" : "application/json"
+    }
+    
+        requests.packages.urllib3.disable_warnings()
+        response = requests.post(url,data=json.dumps(payload), headers=headers, verify=False).json()
+        token = response['imdata'][0]['aaaLogin']['attributes']['token']
+        return token
+    
+    except:
+     error = response.raise_for_status()
+     printf("An error occured " + error)
 {% endhighlight %}
 
 ### Cobra SDK    
