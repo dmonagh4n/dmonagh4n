@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 :heavy_check_mark: [350-901(DEVCOR)](https://developer.cisco.com/certification/exam-topic-core/)
 
 :heavy_check_mark: [300-635(DCAUTO)](https://developer.cisco.com/certification/exam-topic-dc-auto/)
+
+:round_pushpin: [300-735(SAUTO)](https://developer.cisco.com/certification/exam-topic-security/)
