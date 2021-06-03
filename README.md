@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 :heavy_check_mark: [300-635(DCAUTO)](https://developer.cisco.com/certification/exam-topic-dc-auto/)
 
 :round_pushpin: [300-735(SAUTO)](https://developer.cisco.com/certification/exam-topic-security/)
+
+:round_pushpin: [AWS](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+
+:round_pushpin: [GCP](https://cloud.google.com/certification/cloud-architect)
