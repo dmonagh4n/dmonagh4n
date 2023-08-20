@@ -13,17 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:gem: I’m currently working on ...
-
-:round_pushpin: [NetOps Toolkit](https://github.com/dmonagh4n/netops_toolkit) - Tools to help automate and standardise our deployments and operations
-
 :gem: I’m currently learning ...
-
-## AWS
-
-:heavy_check_mark: [AWS DV-C01](https://aws.amazon.com/certification/certified-developer-associate/)
-
-:heavy_check_mark: [AWS SAA-C02](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## Cisco
 
@@ -31,8 +21,14 @@ Here are some ideas to get you started:
 
 :heavy_check_mark: [300-635(DCAUTO)](https://developer.cisco.com/certification/exam-topic-dc-auto/)
 
-:round_pushpin: [300-735(SAUTO)](https://developer.cisco.com/certification/exam-topic-security/)
+## AWS
 
-## Palo Alto
+:heavy_check_mark: [AWS DV-C01](https://aws.amazon.com/certification/certified-developer-associate/)
 
-:round_pushpin: [PCNSA](https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-administrator)
+:heavy_check_mark: [AWS SAA-C02](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+:round_pushpin: [AWS SOA-C02](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+
+:round_pushpin: [AWS DOP-C02](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+
+:round_pushpin: [AWS ANS-C01](https://aws.amazon.com/certification/certified-advanced-networking-specialty/?ch=sec&sec=rmg&d=1)
