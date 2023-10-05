@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![D's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmonagh4n&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmonagh4n&hide_progress=true&theme=tokyonight)
+
 :gem: I’m currently learning ...
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
