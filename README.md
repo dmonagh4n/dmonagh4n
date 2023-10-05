@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmonagh4n)](https://github.com/dmonagh4n/github-readme-stats)
+![D's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmonagh4n&show_icons=true&theme=tokyonight)
 
 :gem: I’m currently learning ...
 
