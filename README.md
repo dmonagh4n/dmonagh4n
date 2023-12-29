@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:gem: I’m currently learning ...
+:star: :student: I’m currently studying ...
 
 | Provider                                                                                                   | Exam                                                                                                            | Status                 |
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------------|
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | [AWS ANS-C01](https://aws.amazon.com/certification/certified-advanced-networking-specialty/?ch=sec&sec=rmg&d=1) | :white_medium_square:  |
 | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | [Azure AZ-700](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/) | :white_medium_square:  |
 
-:gem: I’m continually improving upon ...
+:star: :computer: I’m continually improving upon ...
 
 <p>
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="elasticsearch" />
