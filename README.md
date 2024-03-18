@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900" alt="aws" />
   <img src="https://img.shields.io/badge/Cisco-informational?style=flat&logo=cisco&logoColor=white&color=1BA0D7" alt="cisco" />
   <img src="https://img.shields.io/badge/ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=005571" alt="elasticsearch" />
+  <img src="https://img.shields.io/badge/GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=000099" alt="gcp" />
   <img src="https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800" alt="grafana" />
   <img src="https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=influxdb&logoColor=white&color=22ADF6" alt="influxdb" />
   <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5" alt="kubernetes" />
