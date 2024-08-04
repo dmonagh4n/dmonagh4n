@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5) | [KCNA](https://www.credly.com/badges/ccc2293b-e95a-4b3a-a688-cf3de151b8eb/public_url)                           | :white_check_mark: |
 | ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900) | [AWS SAP-C02](https://aws.amazon.com/certification/certified-solutions-architect-professional/?ch=sec&sec=rmg&d=1)                     | :small_orange_diamond:  |
 | ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900) | [AWS ANS-C01](https://aws.amazon.com/certification/certified-advanced-networking-specialty/?ch=sec&sec=rmg&d=1) | :white_medium_square:  |
-| ![Azure](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4) | [Azure AZ-700](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/) | :white_medium_square:  |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5) | [KCA](https://www.cncf.io/training/certification/cka/) | :white_medium_square:  |
 
 :star: :computer: I’m continually improving upon ...
 ---
