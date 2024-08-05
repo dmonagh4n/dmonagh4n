@@ -31,17 +31,10 @@ Here are some ideas to get you started:
 :star: :computer: I’m continually improving upon ...
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4" alt="azure" /> 
-  <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900" alt="aws" />
-  <img src="https://img.shields.io/badge/Cisco-informational?style=flat&logo=cisco&logoColor=white&color=1BA0D7" alt="cisco" />
-  <img src="https://img.shields.io/badge/ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=005571" alt="elasticsearch" />
-  <img src="https://img.shields.io/badge/GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=000099" alt="gcp" />
-  <img src="https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800" alt="grafana" />
-  <img src="https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=influxdb&logoColor=white&color=22ADF6" alt="influxdb" />
-  <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5" alt="kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624" alt="linux" />
-  <img src="https://img.shields.io/badge/Palo_Alto-informational?style=flat&logo=paloaltonetworks&logoColor=white&color=F04E23" alt="palo alto" />
-  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=844FBA" alt="terraform" />
-</p>
+| Subject | Technology |
+|-|-|
+| Cloud Native | ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5) ![InfluxDB](https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=influxdb&logoColor=white&color=22ADF6) ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff) |
+| DevOps | ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=ffdd54) ![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=844FBA)|
+| Observability | ![Elasticsearch](https://img.shields.io/badge/ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=005571) ![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800)|
+| Public Cloud | ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900) ![AZURE](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4) ![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=000099)|
+| Systems & Networking |![Cisco](https://img.shields.io/badge/Cisco-informational?style=flat&logo=cisco&logoColor=white&color=1BA0D7) ![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624) ![Palo Alto](https://img.shields.io/badge/Palo_Alto-informational?style=flat&logo=paloaltonetworks&logoColor=white&color=F04E23) |
