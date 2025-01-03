@@ -1,0 +1,28 @@
+# Ignore Hugo-generated files
+public/
+resources/
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# OS-Generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.log.*
+*.swp
+*.tmp
+*.bak
+*.pid
+*.seed
+*.backup
+*.orig
+
+# IDE files
+.idea/
+.vscode/
+
+# Ignore hidden files 
+*.env
