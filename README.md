@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:star: :student: I’m currently studying ...
+:student: I’m currently studying ...
 ---
 
 | Provider                                                                                                   | Exam                                                                                                            
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------
 | ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900) | [AWS SAP-C02](https://aws.amazon.com/certification/certified-solutions-architect-professional/?ch=sec&sec=rmg&d=1)
 
-:star: :computer: I’m continually improving upon ...
+:computer: My tech stack ...
 ---
 
 | Subject | Technology |
