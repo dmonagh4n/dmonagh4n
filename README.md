@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------
 | ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900) | [AWS SAP-C02](https://aws.amazon.com/certification/certified-solutions-architect-professional/?ch=sec&sec=rmg&d=1)
 
+- [My AWS Skills Profile](https://skillsprofile.skillbuilder.aws/user/dmonagh4n/certification-badges)
+
 :computer: My tech stack ...
 ---
 
